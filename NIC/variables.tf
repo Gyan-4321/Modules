@@ -1,0 +1,3 @@
+variable "nic5678" {
+
+}

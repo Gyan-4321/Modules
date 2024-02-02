@@ -1,0 +1,3 @@
+variable "appvm3" {
+
+}
